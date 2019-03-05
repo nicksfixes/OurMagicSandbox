@@ -12,7 +12,11 @@ To the original sandbox, implemented in LINUX by Oliver Kreylos at UC Davis, tha
 
 To Jim Eigenreider at VT-Qualcomm Thinkabit Lab (at the West Falls Church campus of Virginia Tech) and the high school students that showed us how they implemented the LINUX version successfully.
 
-To Thom Wolfe who made and published the Windows version that we used, and provided useful advice.
+To Thom Wolfe, and Rasmus Paulsen, who made and published the Windows version that we used, and provided useful advice. Here is more attribution from his readme file.
+https://github.com/thomwolf/Magic-Sand/blob/master/README.md
+=====
+Magic Sand is a software for operating an augmented reality sandbox like theAugmented Reality Sandbox developped by UC Davis.
+It is a partial port of the SARndbox project of Oliver Kreylos under openframeworksand is also adapted from theofxKinectProjectorToolkit by Gene Kogan. It was ported to openframeworks byThomas Wolf and later modified and extended with some games by Rasmus R. Paulsen.
 
 To NovaLabs for providing the environment and premises for the meetups that were catalyst to this implementation, the members that provided encouragement,transport, at site support, and facilitation of the Maker Faires that we have shown it at, and facilities for storage.
 
